@@ -54,21 +54,3 @@ ps aux | grep engine
 
 FINAL: CI Test
 make ci
-
-
-PRE-REQUISITE
-=================================
-
-
-
-
-=================================
-NOTES
-=================================
-
-1. Always run supervisor first (Terminal 1)
-2. Use correct paths: ../rootfs-alpha
-3. Do NOT use same rootfs for multiple containers
-4. Use sudo for all engine commands
-5. Keep Terminal 1 running
-
