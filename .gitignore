@@ -1,0 +1,21 @@
+# build files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.order
+*.symvers
+
+# binaries
+engine
+cpu_hog
+memory_hog
+io_pulse
+
+# logs
+*.log
+logs/
+
+# temp
+*.out
